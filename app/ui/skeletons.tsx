@@ -1,4 +1,3 @@
-'use client';
 
 // Loading animation
 const shimmer =

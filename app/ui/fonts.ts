@@ -1,4 +1,4 @@
-'use client';
+
 
 import { Inter, Lusitana } from 'next/font/google';
 
