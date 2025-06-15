@@ -3,7 +3,7 @@
 A modern, feature-rich dashboard built with [Next.js](https://nextjs.org/) and TypeScript. This project serves as a robust foundation for building scalable web applications with a focus on performance, accessibility, and developer experience.
 
 ## Features
-
+ 
 - ⚡ **Next.js 14+**: Leveraging the latest features and optimizations.
 - 🟦 **TypeScript**: Type-safe codebase for better maintainability and scalability.
 - 🎨 **Modern UI**: Responsive and accessible design.
