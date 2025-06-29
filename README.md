@@ -8,7 +8,7 @@ A modern, feature-rich dashboard built with [Next.js](https://nextjs.org/) and T
 - 🟦 **TypeScript**: Type-safe codebase for better maintainability and scalability.
 - 🎨 **Modern UI**: Responsive and accessible design.
 - 🗃️ **Component-Based Architecture**: Reusable and modular components.
-- 🔒 **Authentication ready**: (Add details if authentication is implemented)
+- 🔒 **Authentication ready**: (Add details if authentication is implemented) 
 - 📈 **Data Visualization**: (Add details if charts/tables are included)
 - 🧪 **Testing Setup**: (Add details if available)
 - 📦 **Easy Deployment**: Ready for Vercel or custom hosting.
